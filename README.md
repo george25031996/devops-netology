@@ -27,3 +27,4 @@
 #5) Файлы конфигурации CLI:
 # .terraformrc
 # terraform.rc
+#new line
